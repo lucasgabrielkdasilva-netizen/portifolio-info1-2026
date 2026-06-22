@@ -1,9 +1,10 @@
 header{
     background-color: blue; 
-    margin: 52px;
-    padding: 52px;
-    border: 52px solid lightblue;
+    margin: 9px;
+    padding: 9px;
+    border: 9px solid lightblue;
     color:white;
+    background-clip: border-box;
 }
   
 nav{
@@ -11,12 +12,14 @@ nav{
     margin: 12px;
     padding: 12px;
     border: 12px solid lightgrey;
+    background-clip: border-box;
  } 
 main {
     background-color: lightgrey;
     margin: 10px;
     padding: 10px;
     border: 10px solid lightslategray;
+    background-clip: border-box;
 }
 footer {
     background-color: black;
@@ -24,22 +27,26 @@ footer {
     padding: 15px;
     border: 15px solid lightgrey;
     color: white;
+    background-clip: border-box;
 }
 section {
     background-color: yellow;
-    margin: 21px;
-    padding: 21px;
-    border: 21px solid lightgray;
+    margin: 11px;
+    padding: 11px;
+    border: 11px solid lightgray;
+    background-clip: border-box;
 }
  article{
      background-color: green;
      margin: 21px;
      padding: 21px;
-     border: 21px solid lightgrey;
+     border: 21px dashed lightgrey;
+     background-clip: border-box;
  }
   aside{
      background-color: purple;
      margin: 19px;
      padding: 19px;
      border: 19px solid lightgrey;
+     background-clip: border-box;
   }
