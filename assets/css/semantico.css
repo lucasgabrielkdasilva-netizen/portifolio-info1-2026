@@ -3,46 +3,43 @@ header{
     margin: 52px;
     padding: 52px;
     border: 52px solid lightblue;
+    color:white;
 }
-h1{
-    background-color: white;
-    margin: 64px;
-    padding: 64px;
-    border: 64px solid lightslategray;
-}  
+  
 nav{
     background-color: orange;
-    margin: 25px;
-    padding: 25px;
-    border: 25px solid lightslategray;
+    margin: 12px;
+    padding: 12px;
+    border: 12px solid lightgrey;
  } 
 main {
     background-color: lightgrey;
-    margin: 32px;
-    padding: 32px;
-    border: 32px solid lightslategray;
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid lightslategray;
 }
 footer {
     background-color: black;
-    margin: 20px;
-    padding: 20px;
-    border: 20px solid lightslategray;
+    margin: 15px;
+    padding: 15px;
+    border: 15px solid lightgrey;
+    color: white;
 }
 section {
     background-color: yellow;
-    margin: 41px;
-    padding: 41px;
-    border: 41px solid lightslategray;
+    margin: 21px;
+    padding: 21px;
+    border: 21px solid lightgray;
 }
  article{
      background-color: green;
      margin: 21px;
      padding: 21px;
-     border: 21px solid lightslategray;
+     border: 21px solid lightgrey;
  }
   aside{
      background-color: purple;
      margin: 19px;
      padding: 19px;
-     border: 19px solid lightslategray;
+     border: 19px solid lightgrey;
   }
