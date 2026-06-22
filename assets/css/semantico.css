@@ -1,24 +1,48 @@
 header{
-    background-color: blue;
+    background-color: blue; 
+    margin: 52px;
+    padding: 52px;
+    border: 52px solid lightblue;
 }
 h1{
     background-color: white;
+    margin: 64px;
+    padding: 64px;
+    border: 64px solid lightslategray;
 }  
 nav{
     background-color: orange;
+    margin: 25px;
+    padding: 25px;
+    border: 25px solid lightslategray;
  } 
 main {
-    background-color: lightgray;
+    background-color: lightgrey;
+    margin: 32px;
+    padding: 32px;
+    border: 32px solid lightslategray;
 }
 footer {
     background-color: black;
+    margin: 20px;
+    padding: 20px;
+    border: 20px solid lightslategray;
 }
 section {
     background-color: yellow;
+    margin: 41px;
+    padding: 41px;
+    border: 41px solid lightslategray;
 }
  article{
      background-color: green;
+     margin: 21px;
+     padding: 21px;
+     border: 21px solid lightslategray;
  }
   aside{
      background-color: purple;
+     margin: 19px;
+     padding: 19px;
+     border: 19px solid lightslategray;
   }
